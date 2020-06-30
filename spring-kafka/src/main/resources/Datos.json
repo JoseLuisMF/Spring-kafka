@@ -1,0 +1,22 @@
+{
+  "ccenint": "aaaa",
+  "cdcanalp": "OFI",
+  "cdcarter": "bbbb",
+  "cdestref": "cccc",
+  "corona": [{
+    "codser": "dddd",
+    "feccor": 2020-06-15,
+    "nueref": 1234,
+    "surefe": ""
+  }],
+  "dgorefen": [{
+    "catrpbat": "mmmm",
+    "cdtrpbat": "nnnnnn",
+    "fedgoref": "2020-06-15",
+    "idcentdg": "dsfs45",
+    "idemprdg": "ttgg",
+    "numdgodg": 5456,
+    "termbtdg": "adfd"
+  }],
+  "eempint": "123"
+}
